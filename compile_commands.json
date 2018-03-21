@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pablo/test/Debug",
-  "command": "/usr/bin/clang++     -include-pch /home/pablo/test/Debug/Precompiled.h.pch  -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/pablo/test/main.cpp",
-  "file": "/home/pablo/test/main.cpp"
-}
-]
